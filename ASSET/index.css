@@ -271,7 +271,7 @@ nav label {
   justify-content: center;
 }
 .background-img {
-  background-image: url(./SRC/services-background.jpg);
+  background-image: url(./services-background.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
